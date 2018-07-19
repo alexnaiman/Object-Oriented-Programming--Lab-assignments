@@ -10,8 +10,8 @@ For this assignment we had to add several features to our last project including
 We also had a bonus point if we connect the project to an sql database management system. 
 If you want to connect to your own mysql server search in the project for "REPLACE", then replace the variables with 
 your own username and password.
- **To note:**
- For the html repository, because I was bored, I created a ReactJs web application which receives
+
+ **To note:** For the html repository, because I was bored, I created a ReactJs web application which receives
  a Json as their data and then renders dynamicaly the tables for the repository and for the watchlist.
  
  For running the project run the command in the [html](./Lab4/Lab3-bun/html) folder for installing all our modules:
