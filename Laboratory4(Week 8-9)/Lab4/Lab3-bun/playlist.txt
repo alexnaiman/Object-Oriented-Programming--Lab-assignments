@@ -1,0 +1,2 @@
+Bjarne Stroustrup,Memory Mangement,201,100,3,38,https://www.youtube.com/watch?v=smiFk6KHr_8
+Iuliana Bocicor,Templates,200,120,3,47,https://sites.google.com/view/iuliana-bocicor/teaching/oop

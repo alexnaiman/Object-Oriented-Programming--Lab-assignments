@@ -1,0 +1,52 @@
+{
+    "tutorials": [
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Iuliana Bocicor",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Pointers"
+        },
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Iuliana",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Memory Management"
+        },
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Iuliana Bocicor",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Inheritance"
+        },
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Bjarne Stroustrup",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Inheritance"
+        },
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Bjarne Stroustrup",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Polymorhism"
+        },
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Bjarne Stroustrup",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Encapsulation"
+        }
+    ]
+}
