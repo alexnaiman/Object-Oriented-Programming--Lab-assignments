@@ -25,7 +25,7 @@ your own username and password.
  After the project is started you can see the repository at [http://localhost:8000/](http://localhost:8000/watchlist)
  and the watchlist at [http://localhost:8000/watchlist](http://localhost:8000/watchlist)
  
-##### **You can read more about ReactJs and it's magic [here](https://reactjs.org/)**
+##### **You can read more about ReactJs and its magic [here](https://reactjs.org/)**
 ![Love React](https://www.techsophy.com/wp-content/uploads/2018/03/6-Reasons-why-we-love-ReactJS.png)
 
 ##### Prerequisites
