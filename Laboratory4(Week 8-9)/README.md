@@ -64,3 +64,10 @@ Depending on this type, the application should save the list in the correct form
 >   - HTML file – with a browser
 > 6. Create a UML diagram for your entire application. For this, you can use any tool that you like
 (StarUML is an example of open source software for UML). Do not draw the diagram by hand.
+>
+>  **ADDITIONAL REQUIREMENT - BONUS POSSIBILITY (0.2 P)**
+>
+>  In addition to the file-based implementation for the repository, implement an SQL-backed repository. For
+this, use inheritance and polymorphism. Choose any type of database management system (e.g. MySQL,
+SQLite, PostgreSQL). To receive the bonus, the requirements must be implemented correctly, by week 9
+and the application must function properly.
