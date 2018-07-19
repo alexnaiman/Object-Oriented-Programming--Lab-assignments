@@ -48,6 +48,7 @@ entities and use these when reading/writing to files or console.
 >   - create your own exception classes.
 >
 >  Validate your input data
+>
 > 4.  Depending on your assignment, store your:
 >    - adoption list
 >    - movie watch list
