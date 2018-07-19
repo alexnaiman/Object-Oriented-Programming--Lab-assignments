@@ -10,7 +10,8 @@ For this assignment we had to add several features to our last project including
 We also had a bonus point if we connect the project to an sql database management system. 
 If you want to connect to your own mysql server search in the project for "REPLACE", then replace the variables with 
 your own username and password.
- <div style="color:red">To note:</div> For the html repository, because I was bored, I created a ReactJs web application which receives
+ **To note:**
+ For the html repository, because I was bored, I created a ReactJs web application which receives
  a Json as their data and then renders dynamicaly the tables for the repository and for the watchlist.
  
  For running the project run the command in the [html](./Lab4/Lab3-bun/html) folder for installing all our modules:
@@ -24,10 +25,12 @@ your own username and password.
  After the project is started you can see the repository at [http://localhost:8000/](http://localhost:8000/watchlist)
  and the watchlist at [http://localhost:8000/watchlist](http://localhost:8000/watchlist)
  
-You can read more about ReactJs and it's magic [here](https://reactjs.org/)
-![Love React](https://rawgit.com/gorangajic/react-icons/master/react-icons.svg)
-#####Prerequisites
+##### **You can read more about ReactJs and it's magic [here](https://reactjs.org/)**
+![Love React](https://www.techsophy.com/wp-content/uploads/2018/03/6-Reasons-why-we-love-ReactJS.png)
+
+##### Prerequisites
  * [MySql C++ connector](https://dev.mysql.com/downloads/connector/cpp/8.0.html)
+ 
 ### Requirements (the exact problem statement)
 
 
