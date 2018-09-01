@@ -1,0 +1,6 @@
+Bjarne Stroustrup,Memory Mangement,100,200,3,38,https://www.youtube.com/watch?v=smiFk6KHr_8
+Bjarne Stroustrup,Pointers,100,200,8,12,https://www.youtube.com/watch?v=69edOm889V4
+Iuliana Bocicor,Templates,120,200,3,47,https://sites.google.com/view/iuliana-bocicor/teaching/oop
+D,Fuck,20,200,3,38,https://www.youtube.com/watch?v=68oqLtQhrPk
+1,1,0,2,2,2,1
+2,2,0,3,2,2,2

@@ -1,0 +1,76 @@
+{
+    "tutorials": [
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Iuliana Bocicor",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Pointers"
+        },
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Iuliana",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Memory Management"
+        },
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Iuliana Bocicor",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Inheritance"
+        },
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Bjarne Stroustrup",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Inheritance"
+        },
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Bjarne Stroustrup",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Polymorhism"
+        },
+        {
+            "Duration": "2:1",
+            "No. likes": "23233",
+            "No. views": "999",
+            "Presenter": "Bjarne Stroustrup",
+            "Source": "https://sites.google.com/view/iuliana-bocicor/teaching/oop",
+            "Title": "Encapsulation"
+        },
+        {
+            "Duration": "1:1",
+            "No. likes": "1",
+            "No. views": "1",
+            "Presenter": "1",
+            "Source": "1",
+            "Title": "1"
+        },
+        {
+            "Duration": "1:2",
+            "No. likes": "1",
+            "No. views": "1",
+            "Presenter": "2",
+            "Source": "1",
+            "Title": "1"
+        },
+        {
+            "Duration": "22:22",
+            "No. likes": "232",
+            "No. views": "242",
+            "Presenter": "23",
+            "Source": "23",
+            "Title": "22"
+        }
+    ]
+}
