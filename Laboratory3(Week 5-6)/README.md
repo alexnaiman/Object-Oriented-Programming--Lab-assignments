@@ -15,13 +15,13 @@ DynamicVector must be dynamically allocated
  * For the second iteration Iteration 2 should solve all problem requirements. The DynamicVector should be
 modified to use templates. 
 
-#####Prerequisites
+##### Prerequisites
  * [OpenCppCoverage Plugin](https://marketplace.visualstudio.com/items?itemName=OpenCppCoverage.OpenCppCoveragePlugin)
 
 ### Requirements (the exact problem statement)
 
 
->  #####MASTER C++
+>  ##### MASTER C++
 > You are very passionate about programing (otherwise you wouldn’t be here, reading this) and C++ is a
 language so close to your heart. On your way to becoming a C++ guru, you study a lot and watch many
 tutorials. To make sure you do not miss any good tutorials, you absolutely need a software application
