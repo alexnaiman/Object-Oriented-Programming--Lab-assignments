@@ -29,15 +29,16 @@ following given X days)
 previous operation performed by the user.
 
 
-##### Bonus possibility(which are also solved in the repo)
- 
-1. Implement the following two extra requirements using function pointers (deadline:
+> ##### Bonus possibility(which are also solved in the repo)
+ >
+> 1. Implement the following two extra requirements using function pointers (deadline:
 week 4, bonus: 0.1p):
-   * For your problem, requirement b, add a different type of filtering (your choice).
-    * For your problem, requirement c, add descending sorting. The user should
+>   * For your problem, requirement b, add a different type of filtering (your choice).
+>    * For your problem, requirement c, add descending sorting. The user should
 choose the type of sorting and the program should show the list of entities
 accordingly.
-2. For iteration 2, provide 2 different implementations for the undo/redo functionality:
+>
+> 2. For iteration 2, provide 2 different implementations for the undo/redo functionality:
 one using a list of operations (please see Seminar 2) and one using the “list of lists”
 approach. Implement your dynamic array generically, such that it can contain any type
 of elements (use void*). Use this structure for your repository, as well as to implement
