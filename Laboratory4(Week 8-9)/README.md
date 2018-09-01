@@ -30,7 +30,7 @@ your own username and password.
 
 ##### Prerequisites
  * [MySql C++ connector](https://dev.mysql.com/downloads/connector/cpp/8.0.html)
- 
+ * [NodeJs](https://nodejs.org/en/)
 ### Requirements (the exact problem statement)
 
 
