@@ -1,0 +1,11 @@
+Iuliana Bocicor,sdfs,120,120,200,10,https://sites.google.com/view/iuliana-bocicor/teaching/oop
+Bjarne Stroustrup,Pointers,300,21,22,22,https://www.youtube.com/watch?v=68oqLtQhrPk
+Marcel,1,1,24,2,2,n k 
+sdf,ssfgs,3223,3232,20,20,2323
+dfg,dfd,9,223,9,9,99
+923,9,9,1000,9,9,9
+lapte,f,9,9,9,9,9
+2323,100,100,9090,9090,9090,1000
+fg,667,6767,676767,67,787,667
+Iri,BOii,2323,2323,223,223,2323
+Iri32,BOii,2323,2323,223,223,2323
