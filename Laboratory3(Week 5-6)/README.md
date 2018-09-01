@@ -12,7 +12,7 @@ mode. You should define a user defined type DynamicVector, which provides
 the specific operations: add, remove, length, etc. The array of elements in the
 DynamicVector must be dynamically allocated
 
- * For the second iteration Iteration 2 should solve all problem requirements. The DynamicVector should be
+ * For the second iteration we should solve all problem requirements. The DynamicVector should be
 modified to use templates. 
 
 ##### Prerequisites
