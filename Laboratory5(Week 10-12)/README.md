@@ -38,7 +38,7 @@ the GUI. For this iteration, you may use Qt Designer, if you want to change the 
 your GUI.
 > * The functionality of the application must be the same (including the one-by-one iteration of
 objects for the user mode).
-
+>
 >  **ADDITIONAL REQUIREMENT - BONUS POSSIBILITY (0.2 P)**
 >
 >  Create a graphic representation of the data in your application. You have an example below: a bar chart
@@ -46,6 +46,7 @@ representing the number of songs for each artist. Your representations can be a 
 another type of chart. You can even use circles or rectangles or any other geometric shapes to “draw”
 your data. To receive the bonus, the requirements must be implemented correctly, by week 12 and the
 application must function properly
+
 > ## Laboratory 14
 > 1. Add a multiple undo and redo functionality for the operations “add”, “remove”, “update” in
 your repository. Implement this functionality using inheritance and polymorphism. You will
