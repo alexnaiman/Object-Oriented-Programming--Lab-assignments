@@ -10,7 +10,7 @@ We had to implement a menu console based application with a given "theme" and se
 ### Requirements (the exact problem statement)
 
 
->  #####INTELLIGENT REFRIGERATOR
+>  ##### INTELLIGENT REFRIGERATOR
 >  The company **“Home SmartApps”** has decided to design a new intelligent
 refrigerator. Besides the hardware, they need a software application to
 manage the refrigerator. Each Product has a name, a category (may be
